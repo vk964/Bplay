@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bel9ja.boardclub",
+      "sha256_cert_fingerprints": [
+        "BD:FE:29:F0:67:DA:D5:D3:FA:3D:29:C2:66:B3:DB:F3:3C:F0:50:70:9B:B8:10:18:92:D3:FF:D8:9A:22:0B:1F"
+      ]
+    }
+  }
+]
