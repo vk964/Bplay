@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066441595284",
+    "project_id": "bel9as-club",
+    "storage_bucket": "bel9as-club.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066441595284:android:569d771b425b42f8515781",
+        "android_client_info": {
+          "package_name": "com.bel9ja.boardclub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BJNVqB3NwCVyj4OnNyZ9p55m3o4APSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
